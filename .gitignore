@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.db
+*.db-*
+data/
+.venv/
+build/
+dist/
+*.spec
+*.log
+*.zip
+.env
